@@ -1,0 +1,54 @@
+.MuiAppBar-colorPrimary {
+	color: #fff;
+	background-color: #fff !important;
+}
+.PrivateTabIndicator-colorPrimary-43 {
+	height: 5px !important;
+
+	background-color: #9b2743 !important;
+}
+.MuiTab-textColorPrimary.Mui-selected {
+	color: #9b2743 !important;
+	height: 15px !important;
+
+	font-family: Montserrat !important;
+	font-size: 12px !important;
+	font-weight: bold !important;
+	letter-spacing: 0 !important;
+	line-height: 15px !important;
+}
+.PrivateTabIndicator-root-44,
+.PrivateTabIndicator-colorSecondary-46,
+.MuiTabs-indicator {
+	width: 100px !important;
+	background-color: #9b2743 !important;
+	height: 5px !important;
+}
+.PrivateTabIndicator-colorSecondary-45 {
+	height: 5px !important;
+
+	background-color: #9b2743 !important;
+}
+.PrivateTabIndicator-colorSecondary-44 {
+	height: 5px !important;
+
+	background-color: #9b2743 !important;
+}
+@media (min-width: 600px) {
+	.MuiTab-root {
+		min-width: 100px !important;
+	}
+}
+.MuiTab-textColorPrimary {
+	height: 15px !important;
+
+	color: #5b5b5b !important;
+	font-family: Montserrat !important;
+	font-size: 12px !important;
+	font-weight: bold !important;
+	letter-spacing: 0 !important;
+	line-height: 15px !important;
+}
+.MuiTab-root {
+	padding: 1px 0 !important;
+}
